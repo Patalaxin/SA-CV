@@ -1,0 +1,99 @@
+@media (min-width: 50px) and (max-width: 700px) {
+.header-photo img{
+width: 50%;
+}
+
+.header-photo{
+width: 100%;
+text-align: center;
+}
+
+.header-name{
+width: 100%;
+text-align: center;
+}
+
+.name{
+font-family: Montserrat, san-serif;
+font-weight: bold;
+font-style: italic;
+font-size: 30px;
+line-height: 124%;
+margin-bottom: 0px;
+margin-top: 0px;
+text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+.qa{
+font-family: Montserrat, san-serif;
+color: #999190;
+text-decoration-color: #999190;
+font-weight: 100;
+font-style: italic;
+font-size: 16px;
+line-height: 124%;
+}
+
+.header-icon{
+width: 100%;
+text-align: center;
+}
+
+.header-icon a{
+font-size:  1.2rem;
+line-height: 124%;
+font-style: italic;
+color: #000000;
+margin: 4px;
+text-decoration: none;
+font-family: Montserrat, san-serif;
+}
+
+.header-icon a:hover{
+opacity: 0.6;
+color: #E49D0E;
+}
+
+@media (max-width: 500px){
+    .header-icon a{
+        font-size: 0.8rem;
+    }
+}
+
+.skills-p{
+font-family: Montserrat, san-serif;
+font-weight:bold;
+font-size:22px;
+text-align: center;
+}
+
+.skills-info{
+font-family: Montserrat, san-serif;
+}
+
+#footer {
+position: fixed;
+left: 0; bottom: 0;
+padding: 10px;
+background: #000000;
+color: #ffffff;
+width: 100%;
+font-family: 'Montserrat';
+}
+
+.abme-info {
+font-family: Montserrat, san-serif;
+margin-bottom: 60px;
+}
+
+.skills-text{
+width: 100%;
+border-top: 3px solid #E49D0E;
+margin-top: 15px;
+}
+
+.skills-skills{
+width: 100%;
+clear: both;
+}
+}
