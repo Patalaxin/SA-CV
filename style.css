@@ -1,4 +1,8 @@
 @media (min-width: 700px) and (max-width: 2000px) {
+.skills-skills li {
+margin-bottom: 10px;
+}
+
 .header{
 display: flex;
 justify-content: center;
