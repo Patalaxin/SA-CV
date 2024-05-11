@@ -17,6 +17,10 @@ width: 100%;
 text-align: center;
 }
 
+.text{
+font-style: italic;
+}
+
 .name{
 font-family: Montserrat, san-serif;
 font-weight: bold;
