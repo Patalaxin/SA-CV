@@ -15,6 +15,10 @@ align-items: center;
 max-width: 1170px;
 }
 
+.padding{
+padding-top: 10px;
+}
+
 .header-photo img{
 width: 50%;
 }
@@ -78,7 +82,7 @@ color: #E49D0E;
 .body{
 display: flex;
 justify-content: center;
-margin-top: 30px;
+margin-top: 10px;
 }
 
 .skills-block{
